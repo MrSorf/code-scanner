@@ -1,0 +1,39 @@
+* {
+    border: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;   
+}
+
+.qr-code {
+  margin-top: 50px;
+  border-width: 40px;
+}
+
+.qr-code img {
+    width: 20%;
+    border-radius: 10px;
+    margin:  1X0px 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.heading h3{
+   justify-content: center;
+   align-items: center;
+   margin:  20px;
+   text-align: center;
+   
+}   
+
+.text p{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin:  20px; 
+}
